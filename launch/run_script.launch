@@ -1,0 +1,4 @@
+<launch>
+    <node name="run_script" pkg="run_script" type="run_script_node.py">
+    </node>
+</launch>
